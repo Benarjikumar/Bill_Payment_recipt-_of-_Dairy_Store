@@ -1,1 +1,0 @@
-# Bill_Payment_recipt-_of-_Dairy_Store
