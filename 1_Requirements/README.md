@@ -1,5 +1,5 @@
-* High requirements .
+* High requirements
 
 
 
-*Low level Requirements .
+*Low level Requirements
