@@ -11,7 +11,7 @@ int main()
   int buttermilk=8;
 int m,p1,n,p2,o,p3,q,p4;
 char name[50];
-time_t t;   // not a primitive datatype
+time_t t;   // not  primitive datatype
     time(&t);
     
   printf("Product Discription\n");
